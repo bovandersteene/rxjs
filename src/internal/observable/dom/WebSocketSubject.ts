@@ -87,13 +87,13 @@ import { Observer, NextObserver } from '../../types';
  *     url: 'ws://localhost:8081',
  *     openObserver: {
  *         next: () => {
- *             console.log('connetion ok');
+ *             console.log('connection ok');
  *         }
  *     },
  * });
  *
  * //output
- * // connetion ok`
+ * // connection ok`
  * ```
  * */
 
